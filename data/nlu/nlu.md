@@ -1,4 +1,3 @@
-<!---->
 ## intent:greet
 - hey
 - hello
@@ -56,3 +55,7 @@
 - are you a [human](human)?
 - am I talking to a bot?
 - am I talking to a human?
+- is this real
+
+## regex:number
+- \d+
