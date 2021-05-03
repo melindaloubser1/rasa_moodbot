@@ -1,4 +1,3 @@
-<!---->
 ## intent:greet
 - hey
 - hello
@@ -6,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- i am sad tomorrow
 
 ## intent:goodbye
 - bye
@@ -19,6 +19,7 @@
 - of course
 - that sounds good
 - correct
+- i [am](human) [sad](bot)
 
 ## intent:deny
 - no

@@ -4,9 +4,11 @@ pipeline:
 - name: CountVectorsFeaturizer
 - name: DIETClassifier
   epochs: 1
-  
+- name: DucklingHTTPExtractor
+  url: http://10.43.7.10:8000
+  dimensions:
+  - time
 policies:
 - name: MemoizationPolicy
 - name: KerasPolicy
 - name: MappingPolicy
-#
