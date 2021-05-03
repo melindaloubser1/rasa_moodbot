@@ -1,4 +1,3 @@
-<!---->
 ## intent:greet
 - hey
 - hello
@@ -12,6 +11,7 @@
 - goodbye
 - see you around
 - see you later
+- L1Lu1Lcx7Ukwp3VXVbI=
 
 ## intent:affirm
 - yes
